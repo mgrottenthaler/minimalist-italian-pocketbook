@@ -1,0 +1,79 @@
+# UI-chrome strings read by the shared theme's layouts (themes/pocketbook-theme)
+# via {{ i18n "key" }}. Book content itself (chapters, blurb, omits, subtitle)
+# stays in content/ and hugo.toml [params] — this file is only the fixed
+# wrapper text every page has regardless of which chapters it contains.
+#
+# A paragraph that contains a link is split at the link boundary (xPre, the
+# link's own label, xPost) so the href stays in the template and only plain
+# text lives here — see themes/pocketbook-theme/README.md for the full
+# contract and where each piece lands on the page.
+
+themeToggleLabel = "Cambia tema"
+themeToggleToLight = "Passa al tema chiaro"
+themeToggleToDark = "Passa al tema scuro"
+
+versionLabel = "Versione"
+
+buyPrimary = "Ordina una copia stampata"
+buySecondary = "Order a printed copy — via Lulu"
+
+# Shown instead of buyPrimary/buySecondary while hugo.toml's params.lulu is
+# still the "#TODO-lulu-listing" placeholder.
+buyUnavailablePrimary = "Prossimamente"
+buyUnavailableSecondary = "Non ancora in vendita su Lulu"
+
+noteLicensePre = "Il libro può essere letto, scaricato e stampato gratuitamente — vedi"
+noteLicenseLink = "la licenza"
+noteLicensePost = ". Tramite Lulu, 2 € del prezzo vanno all'autore. Il sito può essere installato come app sul telefono e letto offline, dal menu del browser."
+
+noteAiPre = "Il contenuto è stato redatto con l'aiuto dell'intelligenza artificiale e verificato dall'autore prima della pubblicazione. Se trovi un errore,"
+noteAiLink = "apri una issue su GitHub"
+noteAiPost = "."
+
+notePrintPre = "Questa è l'edizione web, con scorrimento continuo — non l'impaginazione di stampa. Per pagine identiche alla stampa, vedi"
+notePrintLink = "la versione stampata"
+notePrintPost = "."
+
+notePdfLabel = "PDF pronto per la stampa:"
+notePdfInterior = "interno"
+notePdfCover = "copertina"
+
+# Uppercase eyebrow labels on the two cross-sell cards in the .cross-sell
+# section (VidraGram + sibling-book list) — see the theme's home.html.
+crossPracticeKicker = "Esercizi"
+crossSeriesKicker = "La collezione"
+
+notePracticePre = "Vuoi esercitarti su queste forme? Prova"
+notePracticeLink = "VidraGram"
+notePracticePost = " — esercizi brevi, corretti all'istante, che funzionano anche offline."
+
+# Shown instead of notePractice* while data/vidragram.yaml (in the shared
+# theme) doesn't list this book's params.lang yet.
+notePracticeMissingPre = "VidraGram non offre ancora esercizi in italiano."
+notePracticeMissingLink = "Segnalamelo"
+notePracticeMissingPost = " per essere avvisato quando sarà pronto."
+
+# The sibling-book list built from data/series.yaml (in the shared theme),
+# plus a fixed "missing a language" contact line.
+noteSeriesPre = "Questa collezione esiste anche in:"
+noteSeriesPost = "."
+noteSeriesMissingPre = "Manca una lingua?"
+noteSeriesMissingLink = "Contattami"
+noteSeriesMissingPost = " per richiederla."
+
+practiceLabel = "esercizi:"
+
+toc = "Indice"
+
+legendBold = "grassetto"
+legendBoldDesc = "la desinenza"
+legendItalic = "corsivo"
+legendItalicDesc = "esempi"
+legendBox = "riquadro"
+legendBoxDesc = "eccezioni"
+
+chaptersWord = "capitoli"
+bindingLine = "formato tascabile · rilegatura a spirale"
+
+coverWord = "copertina"
+socialCardWord = "social card"

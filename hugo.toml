@@ -1,0 +1,65 @@
+baseURL = "/"
+locale = "it"
+defaultContentLanguage = "it"
+title = "The Minimalist Italian Pocketbook"
+
+# Layouts, CSS, PWA shell and the PDF build scripts live in the shared theme
+# (git submodule at themes/pocketbook-theme) — see its README for the
+# [params] and i18n contract this book fills in below.
+theme = ["pocketbook-theme"]
+
+# robotsTXT stays disabled: static/robots.txt is a plain file instead (it
+# only ever needs one "Allow: /" line, no templating). sitemap stays enabled
+# — layouts/_default/sitemap.xml below emits the single home-page URL.
+disableKinds = ["taxonomy", "term", "RSS", "robotsTXT", "section", "404"]
+
+# The book is a single HTML document assembled by layouts/home.html and paged
+# into a PDF by paged.js. Chapters stay in site.RegularPages (list = always) so
+# the layout can gather them, but never get an output file of their own.
+[[cascade]]
+  [cascade.target]
+    path = "/chapters/**"
+  [cascade.build]
+    render = "never"
+    list = "always"
+
+[params]
+  subtitle = "grammatica essenziale"
+  # Back-cover copy and imprint line — see the theme's layouts/cover.html. In
+  # Italian, like the book itself; only the README is in English.
+  blurb = "Paradigmi, desinenze e formazione dei tempi, con il minimo di prosa possibile. Un ripasso per il livello B2, non un corso."
+  omits = "Niente esercizi, niente lessico, niente fonetica — solo le forme."
+  url = "https://italian.grottenthaler.eu"
+  repo = "github.com/mgrottenthaler/minimalist-italian-pocketbook"
+  # No Lulu listing exists yet for this book — swap in the real product URL
+  # once one is published (see the Romanian book's hugo.toml for the shape).
+  lulu = "#TODO-lulu-listing"
+
+  # The theme's [params] contract — see themes/pocketbook-theme/README.md.
+  lang = "it"
+  ogLocale = "it_IT"
+  pages = 40
+  price = "9.09"
+  currency = "EUR"
+  # Must match PDF_BASENAME in the Makefile and .github/workflows/pdf.yml.
+  pdfBasename = "grammatica-italiana"
+  # The cover/og:image specimen word, impariamo ("we learn"): stem plain,
+  # ending highlighted.
+  specimenStem = "impar"
+  specimenEnding = "iamo"
+  specimenCaption = "indicativo presente · 1ª pers. pl."
+  ogCaption = "grammatica essenziale · livello B2"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.extensions.typographer]
+    disable = true
+  [markup.goldmark.parser]
+    autoHeadingID = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
+
+[build]
+  writeStats = false
