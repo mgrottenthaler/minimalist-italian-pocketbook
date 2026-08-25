@@ -24,9 +24,11 @@ weight: 70
 
 | **avere** | **essere** |
 |---|---|
-| la maggioranza dei verbi, incl. tutti i transitivi | verbi di moto/stato (*andare, venire, partire, arrivare, restare, stare, essere, diventare*...), tutti i verbi riflessivi/pronominali, i verbi impersonali |
+| la maggioranza dei verbi, incl. tutti i transitivi | verbi di moto a luogo, di stato e di cambiamento di stato (*andare, venire, partire, arrivare, restare, stare, essere, diventare, nascere, morire*...), tutti i verbi riflessivi/pronominali, i verbi impersonali |
 
 Con **essere**, il participio si accorda in genere e numero col **soggetto**: *Maria **è** partit**a**. Loro **sono** partit**i**.* Con **avere**, il participio resta invariabile — **tranne** se un pronome diretto (**lo, la, li, le**) precede il verbo: *Ho comprato **le** mele → **Le** ho comprat**e**.*
+
+Non basta l'idea di movimento per prendere *essere*: *camminare, viaggiare, nuotare, passeggiare* vogliono **avere** (*ho camminato tutto il giorno*).
 
 ## Imperfetto
 

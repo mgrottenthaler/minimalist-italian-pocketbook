@@ -30,20 +30,23 @@ L'aggettivo si colloca di norma **dopo** il nome (*una casa **grande**, un libro
 
 | | davanti a consonante | davanti a s+cons./z | davanti a vocale |
 |---|---|---|---|
-| bello (m. sg.) | **bel** libro | **bello** studente | **bell'**amico |
+| bello (m. sg.) | **bel** libro | **bello** studente | <strong>bell'</strong>amico |
 | buono (m. sg.) | **buon** libro | **buono** studente | **buon** amico |
-| grande (sg.) | **gran** libro / grande libro | grande studente | **grand'**amico |
-| santo (m. sg.) | **San** Pietro | Santo Stefano | **Sant'**Antonio |
+| grande (sg.) | **gran** libro / grande libro | grande studente | <strong>grand'</strong>amico |
+| santo (m. sg.) | **San** Pietro | Santo Stefano | <strong>Sant'</strong>Antonio |
+| quello (m. sg.) | **quel** libro | **quello** studente | <strong>quell'</strong>amico |
+
+Al plurale **bello** e **quello** seguono le forme di *i/gli*: *bei libri, begli studenti, belle case · quei libri, quegli studenti, quelle case*.
 
 ## Comparativo
 
 | Tipo | Costruzione | Esempio |
 |---|---|---|
 | maggioranza | **più** ... **di** / **che** | Marco è **più** alto **di** Luca. |
-| minoranza | **meno** ... **di** / **che** | È **meno** caro **di** ieri. |
+| minoranza | **meno** ... **di** / **che** | Questo libro è **meno** caro **di** quello. |
 | uguaglianza | **(così)** ... **come** / **(tanto)** ... **quanto** | È **tanto** simpatico **quanto** intelligente. |
 
-**di** confronta due termini diversi (persone, cose); **che** confronta due qualità o due elementi della stessa categoria grammaticale (*È **più** intelligente **che** furbo.*, *Preferisco **più** il mare **che** la montagna.*).
+**di** confronta due termini diversi (persone, cose) rispetto alla stessa qualità; **che** confronta due qualità dello stesso termine (*È **più** intelligente **che** furbo.*) ed è obbligatorio davanti a preposizione, avverbio, verbo o quantità (*Mi piace **più** il mare **che** la montagna.*, *Oggi fa **più** freddo **che** ieri.*, *È **più** facile dire **che** fare.*).
 
 ## Superlativo
 

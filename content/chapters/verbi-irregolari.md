@@ -3,9 +3,11 @@ title: "Verbi irregolari"
 weight: 110
 ---
 
-Queste quattro forme danno la chiave del resto del paradigma: il presente 1/2/3 sg. si ricava cambiando solo la desinenza finale (*io vado → tu vai, lui va*), il congiuntivo **che io** si estende a *tu, lui, loro* allo stesso modo, e il participio passato serve al passato prossimo, al trapassato e al passivo. Le forme di **noi/voi** al congiuntivo e all'imperfetto seguono di norma un radicale diverso — vedi *Il congiuntivo, il condizionale, l'imperativo*.
+## Le quattro forme chiave
 
-| Infinito | Pres. 1 sg. | Pres. 3 sg. | Cong. (che io) | Participio |
+Le quattro forme della tabella danno la chiave del resto del paradigma: dalla 1ª sg. del presente si ricava spesso il resto del singolare cambiando solo la desinenza (*io vado → tu vai, lui va*), ma molti verbi cambiano anche il radicale (*io **posso** → tu **puoi***, *io **vengo** → tu **vieni***) — ed è per questo che la tabella dà anche la 3ª sg. Il congiuntivo **che io** si estende a *tu, lui, loro* allo stesso modo, e il participio passato serve al passato prossimo, al trapassato e al passivo. Le forme di **noi/voi** al congiuntivo e all'imperfetto seguono di norma un radicale diverso — vedi *Il congiuntivo, il condizionale, l'imperativo*.
+
+| Infinito | Pres. 1ª sg. | Pres. 3ª sg. | Cong. (che io) | Participio |
 |---|---|---|---|---|
 | andare | vado | va | vada | andato |
 | apparire | appaio | appare | appaia | apparso |

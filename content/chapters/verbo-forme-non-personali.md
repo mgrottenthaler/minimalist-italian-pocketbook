@@ -38,10 +38,12 @@ Invariabile, senza soggetto proprio (implica lo stesso soggetto della principale
 
 **venire** può sostituire *essere* nei tempi semplici, con la stessa funzione: *La porta **viene chiusa** ogni sera.*
 
-## Il si passivante
+## Il *si* passivante e impersonale
 
-Nel parlato e nello scritto corrente, un passivo con soggetto non specificato si rende più spesso con **si** + verbo alla 3ª persona (singolare se il complemento oggetto della frase attiva era singolare, plurale se era plurale) che con la forma passiva vera e propria:
+Nel parlato e nello scritto corrente, un passivo con soggetto non specificato si rende più spesso con **si** + verbo alla 3ª persona che con la forma passiva vera e propria (**si passivante**): il verbo si accorda con l'oggetto della frase attiva, singolare o plurale.
 
-*Qui **si parla** italiano.* (= è parlato) · ***Si vendono** case.* (= sono vendute) · **In Italia si mangia bene.**
+*Qui **si parla** italiano.* (= è parlato) · ***Si vendono** case.* (= sono vendute)
+
+Con un verbo **intransitivo** non c'è nessun oggetto con cui accordarsi: il *si* è allora **impersonale** e il verbo resta sempre alla 3ª singolare. *In Italia **si mangia** bene.* · ***Si parte** alle otto.*
 
 Costruzione molto più comune del passivo con *essere* per un soggetto generico o impersonale — l'equivalente funzionale di "on" in francese o "man" in tedesco.

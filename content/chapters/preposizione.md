@@ -22,7 +22,9 @@ Le preposizioni **di, a, da, in, su** si fondono con l'articolo determinativo ch
 
 Gruppi di parole che funzionano come una preposizione, quasi sempre terminanti in **di** o **a**:
 
-*davanti a, dietro a, vicino a, lontano da, invece di, prima di, dopo di, insieme a, a causa di, secondo, durante, nonostante*
+*davanti a, dietro a, vicino a, lontano da, invece di, prima di, dopo di, insieme a, a causa di, al posto di, in mezzo a*
+
+Da distinguere dalle **preposizioni improprie**, che sono parole singole (spesso avverbi o participi) e reggono da sole un complemento: *secondo, durante, nonostante, tranne, salvo, lungo, dopo, senza*.
 
 ## Preposizione + infinito dopo un verbo
 
@@ -31,8 +33,8 @@ Molti verbi reggono un infinito attraverso una preposizione fissa, da imparare v
 | Verbo + **a** | Verbo + **di** | Verbo senza preposizione |
 |---|---|---|
 | cominciare **a**, iniziare **a** | finire **di**, smettere **di** | volere, potere, dovere |
-| riuscire **a**, imparare **a** | cercare **di**, provare **di**/**a** | piacere, preferire, sapere |
+| riuscire **a**, imparare **a** | cercare **di**, tentare **di** | piacere, preferire, sapere |
 | continuare **a**, aiutare **a** | decidere **di**, dimenticare **di** | desiderare, amare, osare |
-| andare **a**, venire **a** | avere bisogno **di**, avere voglia **di** | |
+| andare **a**, venire **a**, provare **a** | avere bisogno **di**, avere voglia **di** | |
 
 *Comincio **a** lavorare. · Ho deciso **di** partire. · Voglio partire.* (nessuna preposizione davanti all'infinito dopo un modale o *piacere/preferire*)

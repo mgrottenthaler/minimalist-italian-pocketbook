@@ -27,7 +27,7 @@ Dai venti in poi, le decine perdono la vocale finale davanti a **uno** e **otto*
 |---|---|---|---|---|---|---|---|---|---|
 | primo | secondo | terzo | quarto | quinto | sesto | settimo | ottavo | nono | decimo |
 
-Dall'11° in poi si forma togliendo la vocale finale del cardinale e aggiungendo **-esimo**: undic**esimo**, dodic**esimo**, vent**esimo**, centesimo. Gli ordinali si accordano come aggettivi in **-o** (*primo, prima, primi, prime*) e precedono normalmente il nome: *il **terzo** piano*.
+Dall'11° in poi si forma togliendo la vocale finale del cardinale e aggiungendo **-esimo**: undic**esimo**, dodic**esimo**, vent**esimo**, centesimo. Conservano invece la vocale i numeri che finiscono in **-tré** e **-sei**: ventitre**esimo**, ventisei**esimo**. Gli ordinali si accordano come aggettivi in **-o** (*primo, prima, primi, prime*) e precedono normalmente il nome: *il **terzo** piano*.
 
 ## L'ora
 
@@ -50,5 +50,5 @@ Il sistema di 24 ore (*le diciotto*) è comune negli orari ufficiali (treni, neg
 | **un paio** (di) | due, in coppia — *un paio di scarpe* |
 | **una decina / dozzina** (di) | circa dieci / esattamente dodici |
 | **un centinaio, un migliaio** (di) | circa cento / mille |
-| frazioni | **un terzo**, **due quinti** (cardinale + ordinale, come in italiano corrente) |
+| frazioni | **un terzo**, **due quinti** (cardinale + ordinale) |
 | moltiplicativi | **doppio, triplo, quadruplo**... |

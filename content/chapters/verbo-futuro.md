@@ -14,7 +14,7 @@ weight: 80
 | voi | parler**ete** | vender**ete** | dormir**ete** |
 | loro | parler**anno** | vender**anno** | dormir**anno** |
 
-I verbi in **-are** cambiano la vocale del radicale in **-e-** come quelli in **-ere** (*parlare → parler-*, non *parlar-*); **-care/-gare** aggiungono **h** (*cercare → cercherò*, *pagare → pagherò*), come al presente.
+I verbi in **-are** cambiano la vocale tematica **-a-** in **-e-**, come quelli in **-ere** (*parlare → parler-*, non *parlar-*); fanno eccezione **dare, fare, stare**, che la conservano (*darò, farò, starò*). **-care/-gare** aggiungono **h** (*cercare → cercherò*, *pagare → pagherò*) e **-ciare/-giare** perdono la **i** (*cominciare → comincerò*, *mangiare → mangerò*), come al presente.
 
 ### Radicali irregolari
 
@@ -28,7 +28,7 @@ Le desinenze restano regolari; cambia solo il radicale, spesso perdendo la vocal
 | vivere | **vivr-** | essere | **sar-** |
 | venire | **verr-** | volere | **vorr-** |
 | rimanere | **rimarr-** | tenere | **terr-** |
-| bere | **berr-** | | |
+| bere | **berr-** | dare, fare, stare | **dar-, far-, star-** |
 
 ## Futuro anteriore
 
@@ -41,4 +41,5 @@ Le desinenze restano regolari; cambia solo il radicale, spesso perdendo la vocal
 Il futuro semplice e il futuro anteriore esprimono anche una **congettura** sul presente o sul passato prossimo, senza valore temporale di futuro:
 
 *Che ore sono? — Non so, **saranno** le dieci.* (probabilmente sono le dieci)
+
 *Non risponde: **avrà spento** il telefono.* (probabilmente ha spento)

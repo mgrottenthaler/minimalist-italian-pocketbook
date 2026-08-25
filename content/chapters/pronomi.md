@@ -7,15 +7,15 @@ weight: 40
 
 | | |
 |---|---|
-| 1 sg. | io |
-| 2 sg. | tu |
-| 3 sg. m./f. | lui / lei |
-| 3 sg. (formale) | **Lei** |
-| 1 pl. | noi |
-| 2 pl. | voi |
-| 3 pl. m./f. | loro |
+| 1ª sg. | io |
+| 2ª sg. | tu |
+| 3ª sg. m./f. | lui / lei |
+| 3ª sg. (formale) | **Lei** |
+| 1ª pl. | noi |
+| 2ª pl. | voi |
+| 3ª pl. m./f. | loro |
 
-> **tu** = confidenziale; **Lei** (maiuscola, verbo alla 3 sg.) = formale, per una sola persona, indipendentemente dal genere di chi parla o ascolta. Passare da *Lei* a *tu* con qualcuno si dice **dare del tu**. Il soggetto si omette quasi sempre — la desinenza verbale basta a identificare la persona (*(io) parlo*, *(noi) parliamo*); si esprime solo per contrasto o enfasi (***Io** parto, **tu** resti.*).
+**tu** = confidenziale; **Lei** (maiuscola, verbo alla 3ª sg.) = formale, per una sola persona, indipendentemente dal genere di chi parla o ascolta (vedi *Ortografia, registro e forme rare*). Il soggetto si omette quasi sempre — la desinenza verbale basta a identificare la persona (*(io) parlo*, *(noi) parliamo*); si esprime solo per contrasto o enfasi (***Io** parto, **tu** resti.*).
 
 ## Pronomi tonici
 
@@ -23,29 +23,29 @@ Dopo preposizione, o soli per enfasi.
 
 | | |
 |---|---|
-| 1 sg. | me |
-| 2 sg. | te |
-| 3 sg. m./f. | lui / lei / **sé** (riflessivo) |
-| 1 pl. | noi |
-| 2 pl. | voi |
-| 3 pl. | loro / **sé** (riflessivo) |
+| 1ª sg. | me |
+| 2ª sg. | te |
+| 3ª sg. m./f. | lui / lei / **sé** (riflessivo) |
+| 1ª pl. | noi |
+| 2ª pl. | voi |
+| 3ª pl. | loro / **sé** (riflessivo) |
 
-*con **me** · per **te** · l'ha fatto da **sé*** — **sé** sostituisce *lui/lei/loro* quando il soggetto della frase è lo stesso della preposizione (riflessivo): *Pensa solo a **sé**.*
+*con **me** · per **te** · l'ha fatto da **sé*** — **sé** sostituisce *lui/lei/loro* quando il pronome si riferisce al soggetto della frase (riflessivo): *Pensa solo a **sé**.*
 
 ## Pronomi complemento atoni
 
 | | Diretto (COD) | Indiretto (COI) |
 |---|---|---|
-| 1 sg. | **mi** | **mi** |
-| 2 sg. | **ti** | **ti** |
-| 3 sg. m. | **lo** | **gli** |
-| 3 sg. f. | **la** | **le** |
-| 3 sg. (formale) | **La** | **Le** |
-| 1 pl. | **ci** | **ci** |
-| 2 pl. | **vi** | **vi** |
-| 3 pl. m./f. | **li** / **le** | **gli** (loro, posposto, formale) |
+| 1ª sg. | **mi** | **mi** |
+| 2ª sg. | **ti** | **ti** |
+| 3ª sg. m. | **lo** | **gli** |
+| 3ª sg. f. | **la** | **le** |
+| 3ª sg. (formale) | **La** | **Le** |
+| 1ª pl. | **ci** | **ci** |
+| 2ª pl. | **vi** | **vi** |
+| 3ª pl. m./f. | **li** / **le** | **gli** (loro, posposto, formale) |
 
-Alle persone 1 e 2, diretto e indiretto coincidono; solo alla 3ª persona diretto (**lo/la/li/le**) e indiretto (**gli/le**) si distinguono. **lo/la** elidono davanti a vocale (**l'ho** visto); **li/le** no.
+Alla 1ª e alla 2ª persona, diretto e indiretto coincidono; solo alla 3ª persona diretto (**lo/la/li/le**) e indiretto (**gli/le**) si distinguono. **lo/la** elidono davanti a vocale (**l'ho** visto); **li/le** no.
 
 ***Lo** vedo* (vedere qcn.) contro ***Gli** parlo* (parlare a qcn.).
 
@@ -62,11 +62,12 @@ Alle persone 1 e 2, diretto e indiretto coincidono; solo alla 3ª persona dirett
 
 | | |
 |---|---|
-| 1 sg. | mi |
-| 2 sg. | ti |
-| 3 sg./pl. | **si** |
-| 1 pl. | ci |
-| 2 pl. | vi |
+| 1ª sg. | mi |
+| 2ª sg. | ti |
+| 3ª sg. | **si** |
+| 1ª pl. | ci |
+| 2ª pl. | vi |
+| 3ª pl. | **si** |
 
 *(io) **mi** lavo, (loro) **si** parlano.* Il verbo pronominale si coniuga con **essere** ai tempi composti: ***si** sono lavati* — vedi *Il verbo: i tempi del passato*.
 
@@ -86,7 +87,7 @@ Quando diretto e indiretto compaiono insieme, l'indiretto precede e cambia vocal
 
 ## Ordine e posizione dei clitici
 
-Davanti al verbo coniugato: *Te **lo** do.* Con **infinito, gerundio e imperativo affermativo**, i clitici si legano alla fine del verbo, che perde la **-e** finale davanti all'infinito:
+Davanti al verbo coniugato: *Te **lo** do.* Con **infinito, gerundio e imperativo affermativo**, i clitici si legano alla fine del verbo; l'infinito perde la propria **-e** finale:
 
 *dar**telo** · vedendo**lo** · Dim**mi**! · Dam**melo**!*
 

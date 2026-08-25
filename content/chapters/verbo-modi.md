@@ -64,11 +64,13 @@ Stesso radicale del futuro (comprese le irregolarità), desinenze proprie:
 | voi | parler**este** | dormir**este** |
 | loro | parler**ebbero** | dormir**ebbero** |
 
-*Vorrei un caffè. · Potresti aiutarmi?* — anche per cortesia, come in italiano corrente.
+*Vorrei un caffè. · Potresti aiutarmi?* — il condizionale serve anche a formulare una richiesta in modo cortese.
+
+Attenzione alla doppia **m** alla 1ª plurale: *parler**e**mo* (futuro) contro *parler**emm**o* (condizionale) — una sola lettera distingue i due tempi.
 
 ## Condizionale passato
 
-**avere/essere** al condizionale presente + participio: *avrei parlato, sarei partito/a*. Usato per un rimpianto (*Avrei dovuto studiare di più.*) e per un futuro nel passato, nel discorso indiretto (*Ha detto che **sarebbe** arrivato.* — dove l'inglese/francese userebbero un condizionale semplice; l'italiano richiede qui il condizionale **passato**).
+**avere/essere** al condizionale presente + participio: *avrei parlato, sarei partito/a*. Usato per un rimpianto (*Avrei dovuto studiare di più.*) e per un futuro nel passato, nel discorso indiretto (*Ha detto che **sarebbe** arrivato.* — dove l'inglese e il francese userebbero un condizionale semplice; l'italiano richiede qui il condizionale **passato**).
 
 ## Il periodo ipotetico
 
@@ -87,6 +89,8 @@ Stesso radicale del futuro (comprese le irregolarità), desinenze proprie:
 | (noi) | parl**iamo** | vend**iamo** | dorm**iamo** | fin**iamo** |
 | (voi) | parl**ate** | vend**ete** | dorm**ite** | fin**ite** |
 
+Alla 2ª sg. alcuni verbi hanno forme proprie: **va'** (o *vai*), **da'** (*dai*), **fa'** (*fai*), **sta'** (*stai*), **di'**, e **sii** (essere), **abbi** (avere), **sappi** (sapere).
+
 La forma di cortesia (**Lei**) e la 3ª persona in generale **prendono in prestito il congiuntivo presente** — non hanno una forma imperativa propria. L'imperativo **negativo** alla 2ª persona singolare usa **non** + **infinito**, non la forma coniugata: **Non parlare!** (non *non parli*, riservato invece proprio al congiuntivo di cortesia: *Non **parli** così, signora.*).
 
-I pronomi clitici si legano dopo l'imperativo affermativo (vedi *I pronomi*): **Dammi**lo! **Parliamone**! Con **da', fa', sta', va', di'** (forme tronche di *dare, fare, stare, andare, dire*), la consonante iniziale del clitico raddoppia: **da'** + **mi** → **dammi**, **fa'** + **lo** → **fallo**.
+I pronomi clitici si legano dopo l'imperativo affermativo (vedi *I pronomi*): *Dam**melo**! · Parlia**mone**!* Con **da', fa', sta', va', di'** (forme tronche di *dare, fare, stare, andare, dire*), la consonante iniziale del clitico raddoppia: **da'** + **mi** → **dammi**, **fa'** + **lo** → **fallo** — tranne **gli**, che non raddoppia mai: **da'** + **glielo** → **daglielo**.

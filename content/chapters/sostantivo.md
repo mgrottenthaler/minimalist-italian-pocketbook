@@ -27,11 +27,13 @@ Eccezioni frequenti alla regola -o/-a: **la mano**, **la radio**, **la foto**, *
 | Terminazione | Cambiamento | Esempio |
 |---|---|---|
 | **-co, -go** (accento sulla penultima) | mantiene il suono duro, aggiunge **h** | fuoco → fuo**chi**, lago → la**ghi** |
-| **-co, -go** (accento sulla terzultima) | perde la **h**, suono dolce | amico → ami**ci**, biologo → biolo**gi** |
-| **-cia, -gia** (consonante prima di -cia/-gia) | mantiene la **i** | freccia → frec**ce**¹, valigia → vali**ge**¹ |
+| **-co, -go** (accento sulla terzultima) | non aggiunge la **h**, suono dolce | medico → medi**ci**, biologo → biolo**gi** |
+| **-cia, -gia** (consonante prima di -cia/-gia) | perde la **i** | freccia → frec**ce**¹, provincia → provin**ce**¹ |
 | **-cia, -gia** (vocale prima di -cia/-gia) | mantiene la **i** | camicia → camici**e**, ciliegia → ciliegi**e** |
 
 ¹ la *i* di *-cia/-gia* cade al plurale quando è preceduta da consonante (non serve a indicare il suono, già chiaro); resta quando è preceduta da vocale, dove segna che la *c/g* è dolce.
+
+Alla regola dell'accento sfugge un gruppo di parole molto comuni, con l'accento sulla penultima ma il plurale dolce: **amico → amici**, **greco → greci**, **nemico → nemici**, **porco → porci**.
 
 ## Nomi invariabili
 
@@ -51,7 +53,7 @@ Stessa forma, significato diverso secondo il genere:
 | il capitale | denaro, patrimonio | la capitale | città principale |
 | il fine | scopo | la fine | conclusione |
 | il fronte | linea di battaglia | la fronte | parte del viso |
-| il modo | maniera | la moda | tendenza |
+| il fonte | vasca battesimale | la fonte | sorgente, origine |
 
 ## Nomi alterati
 

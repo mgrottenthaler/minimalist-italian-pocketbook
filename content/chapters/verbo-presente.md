@@ -40,6 +40,7 @@ Non c'è regola per prevedere quale gruppo segue un verbo nuovo: **capire, prefe
 | **-care, -gare** | aggiunge **h** davanti a **i/e**, per mantenere il suono duro | cercare → cer**chi**, cer**chiamo** · pagare → pa**ghi**, pa**ghiamo** |
 | **-ciare, -giare** | perde la **i** davanti a **i/e** | cominciare → cominc**i**, cominc**iamo** · mangiare → mang**i**, mang**iamo** |
 | **-iare** (con *i* tonica) | mantiene entrambe le *i* | sciare → tu sci**i** |
+| **-iare** (con *i* atona) | una sola *i* | studiare → tu stud**i** · cambiare → tu camb**i** |
 
 ## Gli ausiliari: essere e avere
 
@@ -54,7 +55,7 @@ Due verbi da cui dipende tutto il resto del sistema — tempi composti, passivo.
 | voi | **siete** | **avete** |
 | loro | **sono** | **hanno** |
 
-> **essere** e **avere** formano i tempi composti (*ho parlato, sono partito* — vedi *Il verbo: i tempi del passato*).
+**essere** e **avere** formano i tempi composti (*ho parlato, sono partito* — vedi *Il verbo: i tempi del passato*).
 
 ## Cosa copre il presente
 
