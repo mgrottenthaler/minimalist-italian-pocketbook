@@ -44,7 +44,7 @@ identity (domain, Lulu listing, cover copy).
 | Margins | top .38 / bottom .34 / **inner .56** / outer .28 in, mirrored |
 | Body face | Source Serif 4 **SmText** (OFL), 8.3 pt / 10.8 pt |
 | Display face | Source Sans 3 (OFL) |
-| Extent | **40 pages** — all content, contents page included; the extent lands even on its own, so no blank leaf is appended |
+| Extent | whatever the current build measures — `make interior` reports it, and appends a blank leaf only if the count lands odd |
 | Version on the cover | read from `VERSION` at build time |
 | Sold as | Lulu Bookstore listing, no ISBN — **not listed yet**, see below |
 | Print cost | not yet checked — run `themes/pocketbook-theme/scripts/check-lulu-pricing.sh`, or the Lulu project wizard, once a listing exists |
@@ -114,6 +114,14 @@ make serve     # live preview as a website; add ?print for the paginated book,
                # or open /cover/ (add ?guides for bleed / trim / punch guides)
 make clean
 ```
+
+`dist/` is scratch — it is gitignored, and nothing in it is what ships. The
+PDFs that go to Lulu are built by `.github/workflows/pdf.yml` on a version
+tag, from a clean checkout of that tag, and attached to the GitHub Release
+(the same run copies them to `/pdf/` on the site). A local `make pdf` is for
+previewing only: its output can lag `VERSION`, because the cover stamps
+whatever `VERSION` said at the moment it was built, not at the moment you
+look at it.
 
 Fonts are vendored once in the shared theme, not per book — see
 [minimalist-pocketbook-theme](https://github.com/mgrottenthaler/minimalist-pocketbook-theme)'s
@@ -211,30 +219,30 @@ shows up in the print output.
 ## Contents
 
 Fifteen chapters, weights in steps of 10 so chapters can be inserted between.
-Page counts are the actual extent of the current build, read off the generated
-table of contents.
+For page numbers, read the generated table of contents — the book's own is
+always current, this list is not.
 
-| # | Chapter | pp. |
-|---|---|---|
-| 1 | Il sostantivo — genere, plurale, nomi invariabili, nomi alterati | 2 |
-| 2 | L'articolo — determinativo, indeterminativo, partitivo, preposizioni articolate, omissione | 2 |
-| 3 | L'aggettivo — accordo, posizione, troncamento, comparazione | 3 |
-| 4 | I pronomi — soggetto, tonico, complemento, *ci/ne*, riflessivo, ordine, possessivo, dimostrativo, relativo, indefinito | 5 |
-| 5 | I numerali — cardinali, ordinali, l'ora | 2 |
-| 6 | Il verbo: indicativo presente — 3 coniugazioni, gruppo *-isc-*, variazioni ortografiche, ausiliari | 2 |
-| 7 | Il verbo: i tempi del passato — passato prossimo, imperfetto, trapassato prossimo | 2 |
-| 8 | Il verbo: il futuro — futuro semplice, futuro anteriore, uso di probabilità | 2 |
-| 9 | Il congiuntivo, il condizionale, l'imperativo — incl. il periodo ipotetico | 3 |
-| 10 | Forme non personali del verbo — infinito, participio, gerundio, voce passiva, *si* passivante | 2 |
-| 11 | Verbi irregolari — tabella di 66 verbi | 5 |
-| 12 | L'avverbio — formazione in *-mente*, irregolari, comparazione | 2 |
-| 13 | La preposizione — semplici, locuzioni, reggenza con l'infinito | 2 |
-| 14 | La sintassi della frase — ordine delle parole, negazione, domanda, discorso indiretto e concordanza dei tempi, dislocazione, congiunzioni | 2 |
-| 15 | Ortografia, registro e forme rare | 2 |
+| # | Chapter |
+|---|---|
+| 1 | Il sostantivo — genere, plurale, nomi invariabili, nomi alterati |
+| 2 | L'articolo — determinativo, indeterminativo, partitivo, preposizioni articolate, omissione |
+| 3 | L'aggettivo — accordo, posizione, troncamento, comparazione |
+| 4 | I pronomi — soggetto, tonico, complemento, *ci/ne*, riflessivo, ordine, possessivo, dimostrativo, relativo, indefinito |
+| 5 | I numerali — cardinali, ordinali, l'ora |
+| 6 | Il verbo: indicativo presente — 3 coniugazioni, gruppo *-isc-*, variazioni ortografiche, ausiliari |
+| 7 | Il verbo: i tempi del passato — passato prossimo, imperfetto, trapassato prossimo |
+| 8 | Il verbo: il futuro — futuro semplice, futuro anteriore, uso di probabilità |
+| 9 | Il congiuntivo, il condizionale, l'imperativo — incl. il periodo ipotetico |
+| 10 | Forme non personali del verbo — infinito, participio, gerundio, voce passiva, *si* passivante |
+| 11 | Verbi irregolari — tabella di 66 verbi |
+| 12 | L'avverbio — formazione in *-mente*, irregolari, comparazione |
+| 13 | La preposizione — semplici, locuzioni, reggenza con l'infinito |
+| 14 | La sintassi della frase — ordine delle parole, negazione, domanda, discorso indiretto e concordanza dei tempi, dislocazione, congiunzioni |
+| 15 | Ortografia, registro e forme rare |
 
-Plus the cross-sell/practice note and the table of contents on pages 1–2:
-**40 pages** in all — the extent comes out even on its own, so the build
-appends no blank leaf (it adds one only if the count ever lands odd). The
+Plus the cross-sell/practice note and the table of contents at the front. The
+build appends a blank leaf whenever the extent lands odd, so what Lulu
+receives is always an even count. The
 book has no title page — it would only repeat the cover, which carries the
 same title and subtitle and has no publisher or imprint to add. The theme's
 `layouts/home.html` drops the `.titlepage` section from the DOM in book
@@ -292,9 +300,13 @@ Italian.
 (`#TODO-lulu-listing`) — the cover's buy button and the JSON-LD offer both
 point nowhere until a real Lulu project exists. Steps, once ready:
 
-1. `make pdf` → `dist/grammatica-italiana-interior.pdf` and
-   `dist/grammatica-italiana-cover.pdf`. Each reports its own extent and
-   measured size, and fails rather than ships if the size is wrong.
+1. Cut a version with `release.py`; the tag triggers
+   `.github/workflows/pdf.yml`. **Upload to Lulu from that run's GitHub
+   Release assets**, not from a local `dist/` — only the tag build is
+   guaranteed to carry the matching `VERSION` on the cover. `make pdf`
+   produces the same two files locally for checking. Either way each reports
+   its own extent and measured size, and fails rather than ships if the size
+   is wrong.
 2. The font check runs as part of the build — every face must be embedded, no
    system fallback. It needs `pdffonts` from poppler-utils; if that isn't
    installed the build says so and continues, so check by hand:

@@ -5,7 +5,7 @@ weight: 70
 
 ## Passato prossimo
 
-**avere** o **essere** al presente + **participio passato**. Esprime un'azione conclusa, vista dal presente o comunque collegabile a esso — è il tempo del passato più usato nel parlato.
+**avere** o **essere** al presente + **participio passato**. Esprime un’azione conclusa, vista dal presente o comunque collegabile a esso — è il tempo del passato più usato nel parlato.
 
 | Participio regolare | -are → **-ato** | -ere → **-uto** | -ire → **-ito** |
 |---|---|---|---|
@@ -28,7 +28,7 @@ weight: 70
 
 Con **essere**, il participio si accorda in genere e numero col **soggetto**: *Maria **è** partit**a**. Loro **sono** partit**i**.* Con **avere**, il participio resta invariabile — **tranne** se un pronome diretto (**lo, la, li, le**) precede il verbo: *Ho comprato **le** mele → **Le** ho comprat**e**.*
 
-Non basta l'idea di movimento per prendere *essere*: *camminare, viaggiare, nuotare, passeggiare* vogliono **avere** (*ho camminato tutto il giorno*).
+Non basta l’idea di movimento per prendere *essere*: *camminare, viaggiare, nuotare, passeggiare* vogliono **avere** (*ho camminato tutto il giorno*).
 
 ## Imperfetto
 
@@ -43,11 +43,11 @@ Non basta l'idea di movimento per prendere *essere*: *camminare, viaggiare, nuot
 
 Quasi nessuna irregolarità: **essere** → ero, eri, era, eravamo, eravate, erano. **fare, dire, bere** usano il vecchio radicale latino (*facevo, dicevo, bevevo*).
 
-Usi: descrizione al passato (*Faceva freddo.*), azione abituale (*Da bambino **giocavo** ogni giorno.*), azione in corso interrotta da un'altra (*Dormivo quando hai chiamato.*), sullo sfondo di una narrazione — mentre il **passato prossimo** fa avanzare la linea degli eventi.
+Usi: descrizione al passato (*Faceva freddo.*), azione abituale (*Da bambino **giocavo** ogni giorno.*), azione in corso interrotta da un’altra (*Dormivo quando hai chiamato.*), sullo sfondo di una narrazione — mentre il **passato prossimo** fa avanzare la linea degli eventi.
 
 ## Trapassato prossimo
 
-**avere/essere** all'imperfetto + participio passato — un'azione anteriore a un'altra azione passata:
+**avere/essere** all’imperfetto + participio passato — un’azione anteriore a un’altra azione passata:
 
 *Quando sono arrivato, il film **era** già **iniziato**.*
 
@@ -57,4 +57,4 @@ Usi: descrizione al passato (*Faceva freddo.*), azione abituale (*Da bambino **g
 
 ## Passato remoto
 
-Esiste anche un passato remoto (*parlai, vendei/vendetti, dormii*), usato oggi soprattutto nella narrazione letteraria e, nel parlato, in alcune regioni del centro-sud per fatti comunque conclusi. Nell'italiano standard contemporaneo il passato prossimo lo ha sostituito quasi ovunque nell'uso parlato — riconoscerlo in lettura basta per il livello B2; vedi *Ortografia, registro e forme rare* per il paradigma minimo.
+Esiste anche un passato remoto (*parlai, vendei/vendetti, dormii*), usato oggi soprattutto nella narrazione letteraria e, nel parlato, in alcune regioni del centro-sud per fatti comunque conclusi. Nell’italiano standard contemporaneo il passato prossimo lo ha sostituito quasi ovunque nell’uso parlato — riconoscerlo in lettura basta per il livello B2; vedi *Ortografia, registro e forme rare* per il paradigma minimo.

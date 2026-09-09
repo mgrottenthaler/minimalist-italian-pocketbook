@@ -1,5 +1,5 @@
 ---
-title: "Il congiuntivo, il condizionale, l'imperativo"
+title: "Il congiuntivo, il condizionale, l’imperativo"
 weight: 90
 ---
 
@@ -49,7 +49,7 @@ Le tre persone del singolare sono **identiche**: nel parlato, il pronome soggett
 
 ## Quando si usa il congiuntivo
 
-Nelle proposizioni subordinate introdotte da **che**, dopo verbi ed espressioni di opinione, dubbio, volontà, sentimento (*penso che, credo che, voglio che, spero che, mi dispiace che*, ma non *so che* o *è vero che*, che vogliono l'indicativo), dopo certe congiunzioni (**benché, sebbene, affinché, prima che, a meno che, purché, senza che**), e dopo un superlativo relativo o un antecedente indefinito/negativo (*È il libro più bello che io **abbia** mai letto. · Non c'è nessuno che lo **sappia**.*).
+Nelle proposizioni subordinate introdotte da **che**, dopo verbi ed espressioni di opinione, dubbio, volontà, sentimento (*penso che, credo che, voglio che, spero che, mi dispiace che*, ma non *so che* o *è vero che*, che vogliono l’indicativo), dopo certe congiunzioni (**benché, sebbene, affinché, prima che, a meno che, purché, senza che**), e dopo un superlativo relativo o un antecedente indefinito/negativo (*È il libro più bello che io **abbia** mai letto. · Non c’è nessuno che lo **sappia**.*).
 
 ## Condizionale presente
 
@@ -70,7 +70,7 @@ Attenzione alla doppia **m** alla 1ª plurale: *parler**e**mo* (futuro) contro *
 
 ## Condizionale passato
 
-**avere/essere** al condizionale presente + participio: *avrei parlato, sarei partito/a*. Usato per un rimpianto (*Avrei dovuto studiare di più.*) e per un futuro nel passato, nel discorso indiretto (*Ha detto che **sarebbe** arrivato.* — dove l'inglese e il francese userebbero un condizionale semplice; l'italiano richiede qui il condizionale **passato**).
+**avere/essere** al condizionale presente + participio: *avrei parlato, sarei partito/a*. Usato per un rimpianto (*Avrei dovuto studiare di più.*) e per un futuro nel passato, nel discorso indiretto (*Ha detto che **sarebbe arrivato**.*): qui l’italiano vuole il condizionale **passato**, non il presente — non *Ha detto che **arriverebbe***.
 
 ## Il periodo ipotetico
 
@@ -78,7 +78,7 @@ Attenzione alla doppia **m** alla 1ª plurale: *parler**e**mo* (futuro) contro *
 |---|---|---|---|
 | realtà | indicativo | indicativo (spesso futuro) | Se **piove**, **resto** a casa. |
 | possibilità | congiuntivo imperfetto | condizionale presente | Se **avessi** tempo, **verrei**. |
-| irrealtà | congiuntivo trapassato | condizionale passato | Se **avessi studiato**, **avrei passato** l'esame. |
+| irrealtà | congiuntivo trapassato | condizionale passato | Se **avessi studiato**, **avrei passato** l’esame. |
 
 ## Imperativo
 
@@ -89,8 +89,8 @@ Attenzione alla doppia **m** alla 1ª plurale: *parler**e**mo* (futuro) contro *
 | (noi) | parl**iamo** | vend**iamo** | dorm**iamo** | fin**iamo** |
 | (voi) | parl**ate** | vend**ete** | dorm**ite** | fin**ite** |
 
-Alla 2ª sg. alcuni verbi hanno forme proprie: **va'** (o *vai*), **da'** (*dai*), **fa'** (*fai*), **sta'** (*stai*), **di'**, e **sii** (essere), **abbi** (avere), **sappi** (sapere).
+Alla 2ª sg. alcuni verbi hanno forme proprie: **va’** (o *vai*), **da’** (*dai*), **fa’** (*fai*), **sta’** (*stai*), **di’**, e **sii** (essere), **abbi** (avere), **sappi** (sapere).
 
-La forma di cortesia (**Lei**) e la 3ª persona in generale **prendono in prestito il congiuntivo presente** — non hanno una forma imperativa propria. L'imperativo **negativo** alla 2ª persona singolare usa **non** + **infinito**, non la forma coniugata: **Non parlare!** (non *non parli*, riservato invece proprio al congiuntivo di cortesia: *Non **parli** così, signora.*).
+La forma di cortesia (**Lei**) e la 3ª persona in generale **prendono in prestito il congiuntivo presente** — non hanno una forma imperativa propria. L’imperativo **negativo** alla 2ª persona singolare usa **non** + **infinito**, non la forma coniugata: **Non parlare!** (non *non parli*, riservato invece proprio al congiuntivo di cortesia: *Non **parli** così, signora.*).
 
-I pronomi clitici si legano dopo l'imperativo affermativo (vedi *I pronomi*): *Dam**melo**! · Parlia**mone**!* Con **da', fa', sta', va', di'** (forme tronche di *dare, fare, stare, andare, dire*), la consonante iniziale del clitico raddoppia: **da'** + **mi** → **dammi**, **fa'** + **lo** → **fallo** — tranne **gli**, che non raddoppia mai: **da'** + **glielo** → **daglielo**.
+I pronomi clitici si legano dopo l’imperativo affermativo di **tu, noi, voi** (vedi *I pronomi*): *Dam**melo**! · Parlia**mone**!* Con la forma di cortesia, che è un congiuntivo, il clitico **precede** il verbo: ***Mi** scusi! · **Si** accomodi!* Con **da’, fa’, sta’, va’, di’** (forme tronche di *dare, fare, stare, andare, dire*), la consonante iniziale del clitico raddoppia: **da’** + **mi** → **dammi**, **fa’** + **lo** → **fallo** — tranne **gli**, che non raddoppia mai: **da’** + **glielo** → **daglielo**.

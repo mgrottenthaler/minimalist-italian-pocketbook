@@ -14,9 +14,9 @@ weight: 130
 | **con** | compagnia, mezzo, modo | esco **con** gli amici, taglio **con** il coltello, parla **con** calma |
 | **su** | luogo (sopra), argomento approssimativo | il libro è **sul** tavolo, un saggio **su** Dante |
 | **per** | scopo, destinazione, durata, causa, mezzo | studio **per** imparare, parto **per** Roma, **per** due ore, **per** questo motivo |
-| **tra / fra** | tempo futuro, posizione intermedia (le due forme sono equivalenti, si sceglie per evitare la ripetizione del suono) | **tra** un'ora, **fra** i libri |
+| **tra / fra** | tempo futuro, posizione intermedia (le due forme sono equivalenti, si sceglie per evitare la ripetizione del suono) | **tra** un’ora, **fra** i libri |
 
-Le preposizioni **di, a, da, in, su** si fondono con l'articolo determinativo che segue (**preposizioni articolate**) — vedi *L'articolo* per la tabella completa.
+Le preposizioni **di, a, da, in, su** si fondono con l’articolo determinativo che segue (**preposizioni articolate**) — vedi *L’articolo* per la tabella completa.
 
 ## Locuzioni preposizionali
 
@@ -37,4 +37,4 @@ Molti verbi reggono un infinito attraverso una preposizione fissa, da imparare v
 | continuare **a**, aiutare **a** | decidere **di**, dimenticare **di** | desiderare, amare, osare |
 | andare **a**, venire **a**, provare **a** | avere bisogno **di**, avere voglia **di** | |
 
-*Comincio **a** lavorare. · Ho deciso **di** partire. · Voglio partire.* (nessuna preposizione davanti all'infinito dopo un modale o *piacere/preferire*)
+*Comincio **a** lavorare. · Ho deciso **di** partire. · Voglio partire.* (nessuna preposizione davanti all’infinito dopo un modale o *piacere/preferire*)

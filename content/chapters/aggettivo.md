@@ -1,5 +1,5 @@
 ---
-title: "L'aggettivo"
+title: "L’aggettivo"
 weight: 30
 ---
 
@@ -14,7 +14,7 @@ Il plurale segue le stesse variazioni ortografiche del sostantivo (*-co/-go, -ci
 
 ## Posizione
 
-L'aggettivo si colloca di norma **dopo** il nome (*una casa **grande**, un libro **interessante***). Alcuni aggettivi comuni e brevi precedono spesso il nome (*bello, brutto, buono, cattivo, grande, piccolo, giovane, vecchio, nuovo, bravo, vero*), e un piccolo gruppo **cambia significato** secondo la posizione:
+L’aggettivo si colloca di norma **dopo** il nome (*una casa **grande**, un libro **interessante***). Alcuni aggettivi comuni e brevi precedono spesso il nome (*bello, brutto, buono, cattivo, grande, piccolo, giovane, vecchio, nuovo, bravo, vero*), e un piccolo gruppo **cambia significato** secondo la posizione:
 
 | Prima del nome | Dopo il nome |
 |---|---|
@@ -22,19 +22,19 @@ L'aggettivo si colloca di norma **dopo** il nome (*una casa **grande**, un libro
 | un **povero** ragazzo (sfortunato) | un ragazzo **povero** (senza soldi) |
 | il **caro** amico (affetto) | un vestito **caro** (costoso) |
 | il **vecchio** amico (di lunga data) | un amico **vecchio** (anziano) |
-| **unico** figlio (solo, senza fratelli) | un caso **unico** (eccezionale) |
+| un’**unica** occasione (una sola) | un’occasione **unica** (eccezionale) |
 
 ## Troncamento davanti al nome
 
-**bello**, **buono**, **grande**, **santo** e **quello** perdono la desinenza davanti al nome, seguendo (per *bello* e *quello*) le stesse forme dell'articolo determinativo:
+**bello**, **buono**, **grande**, **santo** e **quello** perdono la desinenza davanti al nome, seguendo (per *bello* e *quello*) le stesse forme dell’articolo determinativo:
 
 | | davanti a consonante | davanti a s+cons./z | davanti a vocale |
 |---|---|---|---|
-| bello (m. sg.) | **bel** libro | **bello** studente | <strong>bell'</strong>amico |
+| bello (m. sg.) | **bel** libro | **bello** studente | <strong>bell’</strong>amico |
 | buono (m. sg.) | **buon** libro | **buono** studente | **buon** amico |
-| grande (sg.) | **gran** libro / grande libro | grande studente | <strong>grand'</strong>amico |
-| santo (m. sg.) | **San** Pietro | Santo Stefano | <strong>Sant'</strong>Antonio |
-| quello (m. sg.) | **quel** libro | **quello** studente | <strong>quell'</strong>amico |
+| grande (sg.) | **gran** libro / grande libro | grande studente | <strong>grand’</strong>amico |
+| santo (m. sg.) | **San** Pietro | Santo Stefano | <strong>Sant’</strong>Antonio |
+| quello (m. sg.) | **quel** libro | **quello** studente | <strong>quell’</strong>amico |
 
 Al plurale **bello** e **quello** seguono le forme di *i/gli*: *bei libri, begli studenti, belle case · quei libri, quegli studenti, quelle case*.
 
@@ -46,7 +46,7 @@ Al plurale **bello** e **quello** seguono le forme di *i/gli*: *bei libri, begli
 | minoranza | **meno** ... **di** / **che** | Questo libro è **meno** caro **di** quello. |
 | uguaglianza | **(così)** ... **come** / **(tanto)** ... **quanto** | È **tanto** simpatico **quanto** intelligente. |
 
-**di** confronta due termini diversi (persone, cose) rispetto alla stessa qualità; **che** confronta due qualità dello stesso termine (*È **più** intelligente **che** furbo.*) ed è obbligatorio davanti a preposizione, avverbio, verbo o quantità (*Mi piace **più** il mare **che** la montagna.*, *Oggi fa **più** freddo **che** ieri.*, *È **più** facile dire **che** fare.*).
+**di** confronta due termini diversi (persone, cose) rispetto alla stessa qualità; **che** confronta due qualità dello stesso termine (*È **più** intelligente **che** furbo.*) ed è obbligatorio davanti a preposizione (*Vado **più** spesso a Roma **che** a Milano.*), avverbio (*Oggi fa **più** freddo **che** ieri.*), verbo (*È **più** facile dire **che** fare.*) e quantità (*Ho **più** amici **che** nemici.*). Anche il confronto fra due termini retti dallo stesso verbo vuole **che**: *Mi piace **più** il mare **che** la montagna.*
 
 ## Superlativo
 

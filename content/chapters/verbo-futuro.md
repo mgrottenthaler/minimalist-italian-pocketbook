@@ -32,7 +32,7 @@ Le desinenze restano regolari; cambia solo il radicale, spesso perdendo la vocal
 
 ## Futuro anteriore
 
-**avere/essere** al futuro semplice + participio passato — un'azione futura anteriore a un'altra azione futura, obbligatoria dopo **quando, dopo che, appena** + futuro:
+**avere/essere** al futuro semplice + participio passato — un’azione futura anteriore a un’altra azione futura. È la forma normale dopo **quando, dopo che, appena** quando l’anteriorità va marcata:
 
 *Quando **avrò finito**, ti chiamerò. · Appena **sarà arrivata**, cominceremo.*
 

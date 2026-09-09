@@ -38,7 +38,9 @@ disableKinds = ["taxonomy", "term", "RSS", "robotsTXT", "section", "404"]
   # The theme's [params] contract — see themes/pocketbook-theme/README.md.
   lang = "it"
   ogLocale = "it_IT"
-  pages = 42
+  # Deliberately no `pages`: the extent moves whenever the content does, so a
+  # hand-kept number here goes stale (it already had). The theme dropped its
+  # JSON-LD numberOfPages to match — see its layouts/home.html.
   price = "9.09"
   currency = "EUR"
   # Must match PDF_BASENAME in the Makefile and .github/workflows/pdf.yml.

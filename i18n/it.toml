@@ -24,13 +24,13 @@ buyUnavailableSecondary = "Non ancora in vendita su Lulu"
 
 noteLicensePre = "Il libro può essere letto, scaricato e stampato gratuitamente — vedi"
 noteLicenseLink = "la licenza"
-noteLicensePost = ". Tramite Lulu, 2 € del prezzo vanno all'autore. Il sito può essere installato come app sul telefono e letto offline, dal menu del browser."
+noteLicensePost = ". Tramite Lulu, 2 € del prezzo vanno all’autore. Il sito può essere installato come app sul telefono e letto offline, dal menu del browser."
 
-noteAiPre = "Il contenuto è stato redatto con l'aiuto dell'intelligenza artificiale e verificato dall'autore prima della pubblicazione. Se trovi un errore,"
+noteAiPre = "Il contenuto è stato redatto con l’aiuto dell’intelligenza artificiale e verificato dall’autore prima della pubblicazione. Se trovi un errore,"
 noteAiLink = "apri una issue su GitHub"
 noteAiPost = "."
 
-notePrintPre = "Questa è l'edizione web, con scorrimento continuo — non l'impaginazione di stampa. Per pagine identiche alla stampa, vedi"
+notePrintPre = "Questa è l’edizione web, con scorrimento continuo — non l’impaginazione di stampa. Per pagine identiche alla stampa, vedi"
 notePrintLink = "la versione stampata"
 notePrintPost = "."
 
@@ -45,7 +45,7 @@ crossSeriesKicker = "La collezione"
 
 notePracticePre = "Vuoi esercitarti su queste forme? Prova"
 notePracticeLink = "VidraGram"
-notePracticePost = " — esercizi brevi, corretti all'istante, che funzionano anche offline."
+notePracticePost = " — esercizi brevi, corretti all’istante, che funzionano anche offline."
 
 # Shown instead of notePractice* while data/vidragram.yaml (in the shared
 # theme) doesn't list this book's params.lang yet.

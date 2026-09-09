@@ -17,9 +17,9 @@ weight: 50
 |---|---|---|---|---|---|---|---|---|---|
 | trenta | quaranta | cinquanta | sessanta | settanta | ottanta | novanta | cento | mille | un milione |
 
-Dai venti in poi, le decine perdono la vocale finale davanti a **uno** e **otto**: **venti** + uno → **ventuno**, **venti** + otto → **ventotto**, trentuno, trentotto, quarantuno, quarantotto... **tre** riprende l'accento quando è ultima cifra di un numero composto: venti**tré**, trenta**tré**, cento**tré**.
+Dai venti in poi, le decine perdono la vocale finale davanti a **uno** e **otto**: **venti** + uno → **ventuno**, **venti** + otto → **ventotto**, trentuno, trentotto, quarantuno, quarantotto... **tre** riprende l’accento quando è ultima cifra di un numero composto: venti**tré**, trenta**tré**, cento**tré**.
 
-**mille** ha plurale irregolare **-mila**: *duemila, tremila*. **cento** e **mille** non prendono l'articolo indeterminativo (*cento* non *un cento*, *mille* non *un mille* — ma *un milione*, *un miliardo*, che si comportano come sostantivi e reggono *di*: *un milione **di** abitanti*).
+**mille** ha plurale irregolare **-mila**: *duemila, tremila*. **cento** e **mille** non prendono l’articolo indeterminativo (*cento* non *un cento*, *mille* non *un mille* — ma *un milione*, *un miliardo*, che si comportano come sostantivi e reggono *di*: *un milione **di** abitanti*).
 
 ## Ordinali
 
@@ -27,14 +27,14 @@ Dai venti in poi, le decine perdono la vocale finale davanti a **uno** e **otto*
 |---|---|---|---|---|---|---|---|---|---|
 | primo | secondo | terzo | quarto | quinto | sesto | settimo | ottavo | nono | decimo |
 
-Dall'11° in poi si forma togliendo la vocale finale del cardinale e aggiungendo **-esimo**: undic**esimo**, dodic**esimo**, vent**esimo**, centesimo. Conservano invece la vocale i numeri che finiscono in **-tré** e **-sei**: ventitre**esimo**, ventisei**esimo**. Gli ordinali si accordano come aggettivi in **-o** (*primo, prima, primi, prime*) e precedono normalmente il nome: *il **terzo** piano*.
+Dall’11° in poi si forma togliendo la vocale finale del cardinale e aggiungendo **-esimo**: undic**esimo**, dodic**esimo**, vent**esimo**, centesimo. Conservano invece la vocale i numeri che finiscono in **-tré** e **-sei**: ventitre**esimo**, ventisei**esimo**. Gli ordinali si accordano come aggettivi in **-o** (*primo, prima, primi, prime*) e precedono normalmente il nome: *il **terzo** piano*.
 
-## L'ora
+## L’ora
 
 | | |
 |---|---|
 | Che ora è? / Che ore sono? | (entrambe corrette, forma indifferente) |
-| È l'una. | (unica ora al singolare) |
+| È l’una. | (unica ora al singolare) |
 | Sono le due, le tre... | (plurale per tutte le altre) |
 | È mezzogiorno. / È mezzanotte. | |
 | le due e un quarto / e quindici | |
