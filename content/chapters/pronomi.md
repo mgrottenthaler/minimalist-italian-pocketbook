@@ -54,9 +54,9 @@ Alla 1ª e alla 2ª persona, diretto e indiretto coincidono; solo alla 3ª perso
 | | Sostituisce | Esempio |
 |---|---|---|
 | **ci** | luogo, “a/in/su” + cosa | **Ci** vado. (= al mercato) — **Ci** penso. (= a quel problema) |
-| **ne** | “di” + cosa, quantità partitiva, origine | **Ne** vengo. (= dal mercato) — **Ne** ho tre. (= di mele) |
+| **ne** | “di” + cosa, quantità partitiva, origine | **Ne** sono uscito. (= dal negozio) — **Ne** ho tre. (= di mele) |
 
-**ci** forma anche **c’è / ci sono** (esistenza: *C’è un problema. · Ci sono tre libri.*), e compare in molti verbi pronominali (*pensarci, andarci, metterci*) dove non traduce nulla di isolabile.
+**ci** forma anche **c’è / ci sono** (esistenza: *C’è un problema. · Ci sono tre libri.*), e compare in molti verbi pronominali (*volerci, metterci, entrarci*) dove non traduce nulla di isolabile.
 
 ## Il pronome riflessivo
 

@@ -46,7 +46,7 @@ Al plurale **bello** e **quello** seguono le forme di *i/gli*: *bei libri, begli
 | minoranza | **meno** ... **di** / **che** | Questo libro è **meno** caro **di** quello. |
 | uguaglianza | **(così)** ... **come** / **(tanto)** ... **quanto** | È **tanto** simpatico **quanto** intelligente. |
 
-**di** confronta due termini diversi (persone, cose) rispetto alla stessa qualità; **che** confronta due qualità dello stesso termine (*È **più** intelligente **che** furbo.*) ed è obbligatorio davanti a preposizione (*Vado **più** spesso a Roma **che** a Milano.*), avverbio (*Oggi fa **più** freddo **che** ieri.*), verbo (*È **più** facile dire **che** fare.*) e quantità (*Ho **più** amici **che** nemici.*). Anche il confronto fra due termini retti dallo stesso verbo vuole **che**: *Mi piace **più** il mare **che** la montagna.*
+**di** confronta due termini diversi (persone, cose) rispetto alla stessa qualità; **che** confronta due qualità dello stesso termine (*È **più** intelligente **che** furbo.*) ed è obbligatorio davanti a preposizione (*Vado **più** spesso a Roma **che** a Milano.*), avverbio (*Si sta **più** comodi qui **che** lì.*), verbo (*È **più** facile dire **che** fare.*) e quantità (*Ho **più** amici **che** nemici.*). Anche il confronto fra due termini retti dallo stesso verbo vuole **che**: *Mi piace **più** il mare **che** la montagna.*
 
 ## Superlativo
 

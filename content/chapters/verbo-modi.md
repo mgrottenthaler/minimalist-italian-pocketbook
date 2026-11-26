@@ -45,7 +45,7 @@ Le tre persone del singolare sono **identiche**: nel parlato, il pronome soggett
 | che voi | parl**aste** | vend**este** | dorm**iste** |
 | che loro | parl**assero** | vend**essero** | dorm**issero** |
 
-**essere** → fossi, fossi, fosse, fossimo, foste, fossero. Congiuntivo passato e trapassato si formano con **avere/essere** al congiuntivo presente/imperfetto + participio: *che io **abbia** parlato, che io **avessi** parlato*.
+**essere** → fossi, fossi, fosse, fossimo, foste, fossero. Con radicale irregolare anche **dare** → dessi, **stare** → stessi, **fare** → facessi, **dire** → dicessi, **bere** → bevessi. Congiuntivo passato e trapassato si formano con **avere/essere** al congiuntivo presente/imperfetto + participio: *che io **abbia** parlato, che io **avessi** parlato*.
 
 ## Quando si usa il congiuntivo
 
